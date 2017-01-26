@@ -6,3 +6,5 @@ How to reproduce our results:
 EXCEPTION: PLM TAKES A HUGE AMOUNT OF TIME: you better not run it 
 
 PS: Once you generated the files, you can sometime restart the kernel to clean the memory otherwise the notebook might lag. 
+
+PS2: we could not run step 3 because it was taking too much memory 
